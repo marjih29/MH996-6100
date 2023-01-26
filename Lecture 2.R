@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("knitr")
+install.packages("cowplot")
+install.packages(c("nycflights13", "gapminder", "Lahman"))
